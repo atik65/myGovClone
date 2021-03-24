@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className="col-md-5 col-12 my-auto text-center pb-3">
                   পরিকল্পনা ও বাস্তবায়ন
                 </div>
-                <div className="col-md-7 col-12 pb-3">
+                <div className="col-md-7 col-12 pb-3 text-center">
                   <img src={Logo} alt="logo" />
                 </div>
               </div>
