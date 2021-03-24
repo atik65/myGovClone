@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/myGovClone/static/css/main.8f2d6d99.chunk.css",
+    "main.js": "/myGovClone/static/js/main.ff11fd9b.chunk.js",
+    "main.js.map": "/myGovClone/static/js/main.ff11fd9b.chunk.js.map",
+    "runtime-main.js": "/myGovClone/static/js/runtime-main.8de6fc31.js",
+    "runtime-main.js.map": "/myGovClone/static/js/runtime-main.8de6fc31.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/myGovClone/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b257ff5b.chunk.js": "/myGovClone/static/js/2.b257ff5b.chunk.js",
+    "static/js/2.b257ff5b.chunk.js.map": "/myGovClone/static/js/2.b257ff5b.chunk.js.map",
+    "index.html": "/myGovClone/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/myGovClone/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8f2d6d99.chunk.css.map": "/myGovClone/static/css/main.8f2d6d99.chunk.css.map",
+    "static/js/2.b257ff5b.chunk.js.LICENSE.txt": "/myGovClone/static/js/2.b257ff5b.chunk.js.LICENSE.txt",
+    "static/media/atik.a58bd3fe.png": "/myGovClone/static/media/atik.a58bd3fe.png",
+    "static/media/style.css": "/myGovClone/static/media/slider.fbfd3673.jpg",
+    "static/media/electricty-bill.07cd3295.png": "/myGovClone/static/media/electricty-bill.07cd3295.png",
+    "static/media/gas-bill.718f8cd0.png": "/myGovClone/static/media/gas-bill.718f8cd0.png",
+    "static/media/logo.e01b3a86.png": "/myGovClone/static/media/logo.e01b3a86.png",
+    "static/media/telephone-bill.febe031c.png": "/myGovClone/static/media/telephone-bill.febe031c.png",
+    "static/media/water-bill.5d50ecde.png": "/myGovClone/static/media/water-bill.5d50ecde.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8de6fc31.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b257ff5b.chunk.js",
+    "static/css/main.8f2d6d99.chunk.css",
+    "static/js/main.ff11fd9b.chunk.js"
+  ]
+}
